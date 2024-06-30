@@ -3,12 +3,16 @@ let TIME_LIMIT = 60;
 
 // define quotes to be used
 let quotes_array = [
-  "Jab tak hai Jaan. Jab tak hai Jaan. Khaunga mai panipuri subah shaam.",
-  "Last is not first. First is not last. So why Last is Last and not first is Last? Concerning nahi?",
-  "Chai pio biscuit khao. Chai piyo biscuit khao. hehe",
-  "Hey maa mataji. ye aapne kya kar diya tapu ke papa. Ab Uhmdabad me mai meri maa ko kya jawaab dungi.",
-  "Learning never exhausts the mind.",
-  "Mai to thak gayi. Mai dusri baar thak gayi. Mai tisri baar thak gayi. Mai thakti hi jaa rahi hu."
+  "Sahi baat hai",
+  "Ae babuchak",
+  "chai pio biscuit khao chai piyo biscuit khao hehe",
+  "hey maa mataji ye aapne kya kar diya tapu ke papa ab uhmdabad me mai meri maa ko kya jawaab dungi",
+  "chal chal ave",
+  "mai to thak gayi mai dusri baar thak gayi mai tisri baar thak gayi mai thakti hi jaa rahi hu",
+  "humare ratnagiri ke aam ki baat hi nirali hai",
+  "tapu ke papa aapne tapu ke socks pehene hai",
+  "are my dear jijaji"
+
 ];
 
 // selecting required elements

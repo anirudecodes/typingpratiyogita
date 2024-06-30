@@ -175,7 +175,7 @@ function resetValues() {
   input_area.disabled = false;
 
   input_area.value = "";
-  quote_text.textContent = 'Click on the area below to start the game.';
+  quote_text.textContent = 'Niche click karo khel ki shurwaat krne ke liye';
   accuracy_text.textContent = 100;
   timer_text.textContent = timeLeft + 's';
   error_text.textContent = 0;

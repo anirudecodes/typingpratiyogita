@@ -1,6 +1,6 @@
 body {
-  background-color: #fe9801;
-  color: black;
+  background-color: #000000;
+  color: rgb(255, 255, 255);
   text-align: center;
 }
 
@@ -11,9 +11,12 @@ body {
 }
 
 .heading {
-  margin-bottom: 20px;
-  font-size: 3rem;
-  color: black;
+  margin: 40px;
+  font-size: 2rem;
+  font-family: monospace;
+  font-weight: bold;
+
+  color: rgb(239, 35, 201);
 }
 
 .header {
@@ -23,13 +26,14 @@ body {
 
 .timer, .errors,
 .accuracy, .cpm, .wpm {
-  background-color: #ccda46;
+  background-color: #162b8900;
   height: 60px;
   width: 70px;
   margin: 8px;
   padding: 12px;
   border-radius: 20%;
   box-shadow: black 5px 8px 5px;
+  margin-bottom: 20px;
 }
 
 .cpm, .wpm  {
@@ -49,11 +53,12 @@ body {
 }
 
 .quote {
-  background-color: #ccda46;
+  background-color: #450f3d;
   font-size: 1.5rem;
   margin: 10px;
+  font-family: monospace;
   padding: 25px;
-  box-shadow: black 5px 8px 5px;
+  box-shadow: rgb(150, 46, 126) 5px 8px 5px;
 }
 
 .input_area {
@@ -85,3 +90,4 @@ body {
   border: 0px;
   box-shadow: black 5px 8px 5px;
 }
+
